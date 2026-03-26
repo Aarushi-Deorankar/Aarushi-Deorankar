@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Student Performance Dashboard (Power BI) & Deep Learning Projects](https://github.com/Aarushi-Deorankar/student_performance_dashboard)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Power BI & Advanced Python**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Power BI, SQL & Advanced Python**
 
 - 👯 I’m looking to collaborate on [Data Science & Machine Learning Projects](https://github.com/Aarushi-Deorankar)
 
