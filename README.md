@@ -15,8 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aarushi-Deorankar](https://github.com/Aarushi-Deorankar)
 
-- 📝 I regularly write articles on [https://medium.com/@aarudeorankar/i-thought-eda-was-just-graphs-until-i-actually-did-it-05380fb40de4](https://medium.com/@aarudeorankar/i-thought-eda-was-just-graphs-until-i-actually-did-it-05380fb40de4)
-
+- 📝 I regularly write articles on [https://medium.com/@aarudeorankar
 - 💬 Ask me about **Python, EDA, Power BI Dashboards, Machine Learning Basics**
 
 - 📫 How to reach me **aarudeorankar@gmail.com**
